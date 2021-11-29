@@ -1,0 +1,24 @@
+{
+  "name": "W7D1PM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ju1ija/CN-node-yargs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ju1ija/CN-node-yargs-app/issues"
+  },
+  "homepage": "https://github.com/Ju1ija/CN-node-yargs-app#readme"
+}
